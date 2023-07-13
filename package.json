@@ -1,0 +1,27 @@
+{
+  "name": "example-concurrency",
+  "version": "1.0.0",
+  "description": "For study purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/RageNeko26/example-concurrency.git"
+  },
+  "keywords": [
+    "concurrency",
+    "typescript",
+    "javascript"
+  ],
+  "author": "RidhoGAPX",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RageNeko26/example-concurrency/issues"
+  },
+  "homepage": "https://github.com/RageNeko26/example-concurrency#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
